@@ -1,0 +1,19 @@
+{
+    "name": "marco/adventofcode",
+    "Minimum stability": "stable",
+    "type": "library",
+    "require": {
+        "symfony/console": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marco",
+            "email": "dhrmabo@gmail.com"
+        }
+    ]
+}
